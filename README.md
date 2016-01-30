@@ -12,3 +12,4 @@
 - [101-a-tron bot](http://superopinionated.dreamhosters.com/2012/08/30/introducing-the-101-a-tron/)
 - [101-a-tron framework](https://github.com/FeelTrainCoop/101atron)
 - [#StayWoke bot](http://feeltrain.com/blog/stay-woke/)
+- [Cate Huston on Thankless Emotional Labour](http://www.catehuston.com/blog/2014/12/03/corporate-feminism-and-thankless-emotional-labour/)
